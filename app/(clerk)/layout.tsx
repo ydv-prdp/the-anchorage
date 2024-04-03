@@ -1,3 +1,4 @@
+import { Hotel } from "lucide-react";
 import { Metadata } from "next";
 
 
